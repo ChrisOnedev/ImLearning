@@ -1,0 +1,27 @@
+
+---------- LIBRARIAS
+regex
+open
+global
+
+
+---------- FUNCIONES
+filter
+lambda
+map
+zip
+
+
+---------- METODOS
+[].split(' ')
+set().interception, union, etc...
+
+
+---------- FOR con Dict y lambda
+Ej: dicc.items(), key=lambda item: item[1], reverse=True)
+
+
+
+--------------OTROS
+1. list-comprehensions
+2. slicing de Lista y Tupla
