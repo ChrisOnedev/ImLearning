@@ -14,7 +14,10 @@ zip
 
 ---------- METODOS
 [].split(' ')
-set().interception, union, etc...
+[].rstrip()
+set().interception(), union, etc...
+open().readline()
+open().seek(#)
 
 
 ---------- FOR con Dict y lambda
