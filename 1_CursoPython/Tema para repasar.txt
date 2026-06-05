@@ -3,6 +3,8 @@
 regex
 open
 global
+urlopen
+json
 
 
 ---------- FUNCIONES
@@ -18,6 +20,12 @@ zip
 set().interception(), union, etc...
 open().readline()
 open().seek(#)
+archive.startswith('')
+archivo.writelines()
+json.dumps()
+json.dump()
+json.load()
+json.loads()
 
 
 ---------- FOR con Dict y lambda
@@ -28,3 +36,4 @@ Ej: dicc.items(), key=lambda item: item[1], reverse=True)
 --------------OTROS
 1. list-comprehensions
 2. slicing de Lista y Tupla
+3. formato_cols = '{0:<35} {1:>17} {2:>35}'   --> forma de darle fomato a un txt
