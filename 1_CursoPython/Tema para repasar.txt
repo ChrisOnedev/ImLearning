@@ -5,6 +5,7 @@ open
 global
 urlopen
 json
+csv
 
 
 ---------- FUNCIONES
